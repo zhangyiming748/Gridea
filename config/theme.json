@@ -1,0 +1,36 @@
+{
+  "config": {
+    "archivesPageSize": 100,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 50,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "根据2002年1月1日<计算机软件保护条例>规定:为了学习和研究软件内含的设计思想和原理,通过安装,显示,传输或者存储软件等方式使用软件的,可以不经软件著作权人许可,不向其支付报酬!",
+    "siteName": "zen`s Blog",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "paper"
+  },
+  "customConfig": {
+    "contentBgColor": "#ffffff",
+    "customCss": "",
+    "facebook": "",
+    "ga": "UA-‭141755803‬-1",
+    "github": "",
+    "latestArticleText": "最新文章",
+    "navBgColor": "#ffffff",
+    "nextArticleText": "下一篇",
+    "nextPageText": "下一页",
+    "prevPageText": "上一页",
+    "readMoreText": "Read More",
+    "tagListText": "标签列表",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}

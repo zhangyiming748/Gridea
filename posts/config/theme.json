@@ -1,0 +1,36 @@
+{
+  "config": {
+    "archivesPageSize": 100,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 50,
+    "postPath": "post",
+    "postUrlFormat": "SHORT_ID",
+    "showFeatureImage": true,
+    "siteDescription": "温故而知新",
+    "siteName": "Blog",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "paper"
+  },
+  "customConfig": {
+    "contentBgColor": "#ffffff",
+    "customCss": "",
+    "facebook": "",
+    "ga": "UA-141755803-1",
+    "github": "",
+    "latestArticleText": "最新文章",
+    "navBgColor": "#ffffff",
+    "nextArticleText": "下一篇",
+    "nextPageText": "下一页",
+    "prevPageText": "上一页",
+    "readMoreText": "Read More",
+    "tagListText": "标签列表",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}

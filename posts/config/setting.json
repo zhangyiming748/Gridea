@@ -1,0 +1,30 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://zhangyiming748.github.io",
+    "email": "zhangyiming748@gmail.com",
+    "enabledProxy": "proxy",
+    "platform": "github",
+    "privateKey": "",
+    "proxyPath": "127.0.0.1",
+    "proxyPort": "8889",
+    "repository": "zhangyiming748.github.io",
+    "token": "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",
+    "username": "zhangyiming748"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "477e0c508de61620f8b5",
+      "clientSecret": "1e0ba52034ebefb233ade8610c294f67db572e59",
+      "owner": "zhangyiming748",
+      "repository": "zhangyiming748.github.io"
+    },
+    "showComment": true
+  }
+}
